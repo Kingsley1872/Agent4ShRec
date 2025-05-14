@@ -2,13 +2,6 @@
 
 AgentAttack is a project designed to simulate and analyze attacks on recommendation systems. It provides tools for generating fake user profiles, poisoning reviews with fake ratings, and evaluating the impact of such attacks on recommendation models.
 
-## Features
-
-- **Attack Simulation**: Tools to simulate various types of attacks on recommendation systems.
-- **Evaluation Metrics**: Evaluate the impact of attacks on model performance.
-- **Preprocessing Utilities**: Includes utilities for data preprocessing and poisoned review generation.
-- **Support for BERT**: Leverages BERT for advanced attack processing.
-
 ## Project Structure
 
 ```
